@@ -1,0 +1,3 @@
+[submodule "primers"]
+	path = primers
+	url = https://github.com/rstudio-education/primers.git
